@@ -1,4 +1,3 @@
-Explorando Dados de Vendas e Clientes: Criando KPIs Essenciais para o Varejo
 
 Objetivos:
 Departamentos mais vendidos
